@@ -1,8 +1,0 @@
-{
-"subjects":["unemployment", "employment", "youth", "labor force"],
-"title":"Unemployment, youth total (% of total labor force ages 15-24)",
-"table":"Data",
-"publisher":"International Labour Organization",
-"published_year":2020,
-"database":"https://data.worldbank.org/indicator/SL.UEM.1524.ZS"
-}
